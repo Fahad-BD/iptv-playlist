@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1,Caze TV BR
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+
+#EXTINF:-1,Channel 94
+https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+
+#EXTINF:-1,NBC Puerto Rico
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
+
+#EXTINF:-1,FOX Sports
+https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports720p.m3u8
+
+#EXTINF:-1,Channel 32
+https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
