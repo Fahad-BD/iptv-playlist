@@ -86,6 +86,3 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 #EXTINF:-1 tvg-name="Bangla Vision" tvg-logo="https://images.seeklogo.com/logo-png/51/1/bangla-vision-tv-channel-logo-png_seeklogo-513051.png" group-title="Bangla",Bangla Vision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 
-#EXTINF:-1 tvg-name="RTV" group-title="Bangla",RTV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1782395961/ei/2d88apXMHbi3juMP25bciQk/ip/203.31.169.93/id/AF5wnXMbDso.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/siu/1/bui/ARmQxEVa6Q2fyoTFXxy2ZDJTkcEJzfgDsF6y3YtRsJ1utJocaKW5QcUpo3AG3q0TJty_IKFflA/spc/SQ-umlcF2NPfTH8EqJTcELGJ0sDEy3k-_3wb5niF0v-xqtz7ArjrM78/vprv/1/go/1/ns/a2BwSkbqGBgLdyB3sF0gShAW/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565682%2C51987687/dover/11/n/e-Bx0ZsNxCAKoFYL/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhALVumkohNenLnljafBcIZI_fzdnyqlKDPWnDFbGmaCiRAiEAjYBeg63SvzICglivsrsU5Cu_p3ntc53WGUGoVWvaOdM%3D/file/index.m3u8
-
